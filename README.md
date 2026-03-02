@@ -10,7 +10,7 @@
 - 🚀 Want To Learn: `React`, `Tailwind`, `Node.js`
 - 🗣️ Languages: `Portuguese`, `English`
 
----
+
 
 ## 📂 What You'll Find Here
 
@@ -19,7 +19,7 @@
 - 🎨 Interface implementations from Figma
 - 📚 Personal studies and experiments
 
----
+
 
 ## 🤝 Open For
 - Freelance projects
