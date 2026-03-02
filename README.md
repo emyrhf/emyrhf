@@ -5,7 +5,7 @@
       <p>Building real skills through real projects.</p>
     </td>
     <td>
-      <img src="assets/gif.gif" width="200px"/>
+      <img src="assets/gif.gif" width="600px"/>
     </td>
   </tr>
 </table>
