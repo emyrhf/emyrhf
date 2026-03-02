@@ -1,16 +1,27 @@
-## Hi there 👋
+# 💐 Emily Furtado
 
-<!--
-**emyrhf/emyrhf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**``The Only Impossible Thing is Impossibility``**
 
-Here are some ideas to get you started:
+- ⚙️ Developing With: `HTML`, `CSS`, `JavaScript`, `WordPress`, `Elementor`
+- 🧠 Programming & Logic: `Java`, `Data Structures`
+- 🎨 Designing With: `Figma`
+- 🛠️ Tools: `Git`, `GitHub`, `VS Code`
+- 🌱 Currently Learning: `Computer Architecture`, `Software Fundamentals`
+- 🚀 Want To Learn: `React`, `Tailwind`, `Node.js`
+- 🗣️ Languages: `Portuguese`, `English`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📂 What You'll Find Here
+
+- 💻 College projects (Data Structures & Programming)
+- 🌐 Website development projects
+- 🎨 Interface implementations from Figma
+- 📚 Personal studies and experiments
+
+---
+
+## 🤝 Open For
+- Freelance projects
+- Junior developer opportunities
+- Collaborative learning projects
