@@ -57,8 +57,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"/>
 </p>
 
 ## 🎯 Current Focus
