@@ -1,6 +1,5 @@
 # 💐 Emily Furtado
 
-**``The Only Impossible Thing is Impossibility``**
 
 - ⚙️ Developing With: `HTML`, `CSS`, `JavaScript`, `WordPress`, `Elementor`
 - 🧠 Programming & Logic: `Java`, `Data Structures`
