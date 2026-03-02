@@ -1,16 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <h1>👩‍💻 Emily Rharysa</h1>
-      <p>Building real skills through real projects.</p>
-    </td>
-    <td>
-      <img src="assets/gif.gif" width="600px"/>
-    </td>
-  </tr>
-</table>
-
-
+# 👩‍💻 Emily Rharysa
+     
 ## 🚀 About Me
 *`Building real skills through real projects.`*
 
