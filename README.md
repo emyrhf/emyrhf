@@ -1,4 +1,14 @@
-# 💐 Emily Furtado
+<table>
+  <tr>
+    <td>
+      <h1>👩‍💻 Emily Rharysa</h1>
+      <p>Building real skills through real projects.</p>
+    </td>
+    <td>
+      <img src="assets/gif.gif" width="200px"/>
+    </td>
+  </tr>
+</table>
 
 
 ## 🚀 About Me
