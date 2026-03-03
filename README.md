@@ -1,14 +1,7 @@
-<table>
-  <tr>
-    <td>
-      <h1>👩‍💻 Emily Furtado</h1>
-      <p>Web Developer in Progress</p>
-    </td>
-    <td>
-      <img src="assets/gif.gif" width="400px"/>
-    </td>
-  </tr>
-</table>
+<div display = "flex">
+  <h1>👩‍💻 Emily Rharysa</h1>
+  <img src="assets/gatinho.gif" width="200px"/>
+</div>
      
 ## 🚀 About Me
 *`Building real skills through real projects.`*
