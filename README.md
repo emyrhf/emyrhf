@@ -1,6 +1,6 @@
 <div display = "flex">
   <h1>👩‍💻 Emily Rharysa</h1>
-  <img src="assets/gatinho.gif" width="200px"/>
+  <img src="assets/gif.gif" width="200px"/>
 </div>
      
 ## 🚀 About Me
