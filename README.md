@@ -1,4 +1,14 @@
-# 👩‍💻 Emily Rharysa
+<table>
+  <tr>
+    <td>
+      <h1>👩‍💻 Emily Furtado</h1>
+      <p>Web Developer in Progress</p>
+    </td>
+    <td>
+      <img src="assets/gif.gif" width="400px"/>
+    </td>
+  </tr>
+</table>
      
 ## 🚀 About Me
 *`Building real skills through real projects.`*
