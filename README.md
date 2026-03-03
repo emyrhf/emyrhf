@@ -1,4 +1,4 @@
-<div display = "flex">
+<div style="display: flex; flex-direction: column; align-items: center;">
   <h1>👩‍💻 Emily Rharysa</h1>
   <img src="assets/gif.gif" width="200px"/>
 </div>
