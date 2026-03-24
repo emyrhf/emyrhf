@@ -53,13 +53,17 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+## 🎯 Current Focus
+- Strengthening programming fundamentals  
+- Improving data analysis skills with Python  
+- Preparing for modern front-end frameworks
 
-## 🚀 Currently Learning
+##  📚 Learning
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-2c5364?style=for-the-badge)
 ![Computer Architecture](https://img.shields.io/badge/Computer%20Architecture-0f2027?style=for-the-badge)
 
 
-## 🔥 Want To Learn
+## 🚀 Next steps
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -70,14 +74,3 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
-
-## 🎯 Current Focus
-
-- Strengthening programming fundamentals
-- Preparing for modern front-end frameworks
-- Building consistent and scalable projects
-
-## 🤝 Open For
-- Freelance projects
-- Junior developer opportunities
-- Collaborative learning projects
