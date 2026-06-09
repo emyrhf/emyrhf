@@ -1,4 +1,4 @@
-## Emily Furtado
+## Emy Furtado
 
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
