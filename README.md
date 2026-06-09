@@ -1,4 +1,4 @@
-## Emy Furtado
+# ⭐Emy Furtado
 
 <p align="center">
   <img height="200em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
@@ -20,15 +20,15 @@
   <img align=center src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecolab/googlecolab-original.svg" height=30 width=40 />
 </div>
 
-## Contacts
-
-<div> 
-  <a href="https://linkedin.com/in/emyrhf" target="_blank">
-  <img height=40 wight=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+<div align=center style="display: inline-block"></br>
+<a href="https://linkedin.com/in/emyrhf" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-<a href="mailto:emily.furtado8@gmail.com">
-     <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200&icon_names=alternate_email" />
-</a>
+  <a href = "mailto:emily.furtado8@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
 </div>
 
-![Snake animation](https://github.com/emyrhf/emyrhf/blob/output/github-contribution-grid-snake.svg)
+## Contributions
+
+![Snake animation](https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake.svg)
