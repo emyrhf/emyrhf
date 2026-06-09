@@ -1,26 +1,9 @@
 # 🌸 Emily Furtado
 
-<a href="https://linkedin.com/in/emyrhf" target="_blank">
-     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="https://github.com/emyrhf" target="_blank">
-     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="mailto:emily.furtado8@gmail.com">
-     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-     
-## 🚀 About Me
-*`Building real skills through real projects.`*
-
-- 🎓 Technology student
-- 💻 Web Developer focused on responsive interfaces
-- 🧠 Studying Data Structures & Computer Architecture
-- 📈 Constantly improving logic and software fundamentals
-- 🤝 Open for freelance and junior opportunities`
-
-## ⚙️ Technologies
+<p align="center">
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
 ### 🎨 Front-End
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -74,3 +57,13 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=emyrhf&show_icons=true&theme=tokyonight&hide_border=true" />
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
+
+ 
+<div> 
+  <a href="https://linkedin.com/in/emyrhf" target="_blank">
+     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:emily.furtado8@gmail.com">
+     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</div>
