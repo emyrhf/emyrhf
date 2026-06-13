@@ -31,4 +31,4 @@
 
 ## Contributions
 
-![Snake animation](https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake.svg)
+![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emyrhf&theme=react-dark&area=true)
