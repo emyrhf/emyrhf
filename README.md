@@ -1,4 +1,4 @@
-# ⭐Emy Furtado
+## 𝓔𝓶𝔂 𝓕𝓾𝓻𝓽𝓪𝓭𝓸
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=emyrhf&layout=compact&theme=tokyonight&hide_border=true"/>
