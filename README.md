@@ -29,23 +29,22 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software 
 
 ---
 
-## `> CONTRIBUTIONS`
+<!--## `> CONTRIBUTIONS`
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=emyrhf&theme=react-dark&area=true)
 
 ---
 
-<!--# `> ACHIEVEMENTS`
+# `> ACHIEVEMENTS`
 
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=emyrhf&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=7" />
 
-</div>
+</div>-->
 
--->
 
-# `> DIGITAL_NETWORK`
+## `> DIGITAL_NETWORK`
 
 <div align="center">
   
@@ -60,16 +59,10 @@ Atualmente estou aprofundando meus conhecimentos em desenvolvimento de software 
 
 ---
 
-<!--<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=emyrhf&style=for-the-badge&color=00f5ff&label=PROFILE+VIEWS"/>
-
-</div>-->
-
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/emyrhf/emyrhf/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg"/>
 </picture>
 </div>
